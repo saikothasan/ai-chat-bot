@@ -1,0 +1,9 @@
+name = "telegram-cloudflare-bot"
+main = "index.js"
+compatibility_date = "2023-10-30"
+
+[ai]
+binding = "AI"
+
+# The TELEGRAM_BOT_TOKEN is set in the Cloudflare dashboard or via wrangler secret
+
